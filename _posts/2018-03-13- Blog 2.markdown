@@ -5,21 +5,19 @@ date:   2018-03-12 10:17:58 +0530
 comments: true
 categories: jekyll update
 ---
-TIME... <br/>
-It isn't only a Healer, <br/>
+#H1 TIME... <br/>
+#H3 It isn't only a Healer, <br/>
 <br/>
-TIME is a Psychopath.<br/>
+#H3 TIME is a Psychopath.<br/>
+<br/>
+#H3 It makes you Happy,<br/>
+#H3 Then Stabs,<br/>
+#H3 Then applies it's Healing Medicines, <br/>
 <br/>
 <br/>
-It makes you Happy,<br/>
-Then Stabs,<br/>
-Then applies it's Healing Medicines, <br/>
+#H3 Then makes you happy again...<br/>
 <br/>
-<br/>
-Then makes you happy again...<br/>
-<br/>
-
-And then, It repeats it's work.
+#H3 And then, It repeats it's work.
 - Hil
 
 {% if page.comments %}
