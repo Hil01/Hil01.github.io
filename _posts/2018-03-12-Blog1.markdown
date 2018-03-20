@@ -3,7 +3,7 @@ layout: post
 title:  "Blog 1- The Black Wolf"
 date:   2018-03-12 10:17:58 +0530
 comments: true
-categories: jekyll update
+categories: jekyll update  
 ---
 
 THE BLACK WOLF
@@ -27,6 +27,7 @@ But here is the answer, to all forms of dope, <br/>
 Reboot and reset, and know there is hope! <br/>
 You must starve the black wolf, until it is dead, <br/>
 And nourish the white one, to live free instead!<br/>
+- Hil
 
 {% if page.comments %}
 <div id="disqus_thread"></div>
