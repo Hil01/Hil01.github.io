@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Blog 2- Time Quote"
-date:   2018-03-12 10:17:58 +0530
+title:  "Blog 3- Desert Bazaar Photography"
+date:   2018-03-21 01:19:58 +0530
 comments: true
 categories: jekyll update
 ---
@@ -10,7 +10,35 @@ categories: jekyll update
 
 At High Street Phoenix, Palladium
 ![rahil_photoessay_1](https://user-images.githubusercontent.com/36603621/37678499-46549074-2ca4-11e8-92c1-6b50e216fe87.JPG)
-
+<br/>
+![rahil_photoessay_2](https://user-images.githubusercontent.com/36603621/37679818-19f0eb3c-2ca8-11e8-910c-8bc7045229aa.JPG)
+<br/>
+![rahil_photoessay_3](https://user-images.githubusercontent.com/36603621/37679445-f1ac39de-2ca6-11e8-9428-2075f8ecdce2.JPG)
+<br/>
+![rahil_photoessay_4](https://user-images.githubusercontent.com/36603621/37679949-78742c64-2ca8-11e8-93e9-3ea2a01724ec.jpg)
+<br/>
+![rahil_photoessay_5](https://user-images.githubusercontent.com/36603621/37679953-7ac6f9e2-2ca8-11e8-950b-e47e397595d4.JPG)
+<br/>
+![rahil_photoessay_6](https://user-images.githubusercontent.com/36603621/37680040-be661264-2ca8-11e8-9d68-028043847cb5.JPG)
+<br/>
+![rahil_photoessay_7](https://user-images.githubusercontent.com/36603621/37680044-c093018c-2ca8-11e8-8555-741c86eccc6c.JPG)
+<br/>
+![rahil_photoessay_8](https://user-images.githubusercontent.com/36603621/37680146-0ae6122e-2ca9-11e8-9335-66a1fe954f93.JPG)
+<br/>
+![rahil_photoessay_9](https://user-images.githubusercontent.com/36603621/37680156-107a4d5e-2ca9-11e8-93c4-c499da62bc45.JPG)
+<br/>
+![rahil_photoessay_10](https://user-images.githubusercontent.com/36603621/37680211-3b6252c8-2ca9-11e8-9cff-7bc6aa721aee.JPG)
+<br/>
+![rahil_photoessay_11](https://user-images.githubusercontent.com/36603621/37680216-3ee29200-2ca9-11e8-85c0-fa3d021b75d4.JPG)
+<br/>
+![rahil_photoessay_12](https://user-images.githubusercontent.com/36603621/37680282-701694c0-2ca9-11e8-8f6c-29dddf2045f9.JPG)
+<br/>
+![rahil_photoessay_13](https://user-images.githubusercontent.com/36603621/37680290-736e4faa-2ca9-11e8-9d99-4cf7deddfa9b.JPG)
+<br/>
+![rahil_photoessay_14](https://user-images.githubusercontent.com/36603621/37680359-a90520da-2ca9-11e8-88d8-23f12eeca08a.JPG)
+<br/>
+![rahil_photoessay_15](https://user-images.githubusercontent.com/36603621/37680365-ac1452a0-2ca9-11e8-9342-9918c4369862.JPG)
+<br/>
 
 {% if page.comments %}
 <div id="disqus_thread"></div>
