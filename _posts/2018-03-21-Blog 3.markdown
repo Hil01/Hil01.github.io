@@ -5,8 +5,8 @@ date:   2018-03-21 01:19:58 +0530
 comments: true
 categories: jekyll update
 ---
-##  **LBB's Desert Bazaar on 18th March,2018 <br/>
-##  **at High Street Phoenix** <br/>
+##  LBB's Desert Bazaar on 18th March,2018 <br/>
+##  at High Street Phoenix <br/>
 
 At High Street Phoenix, Palladium
 ![rahil_photoessay_1](https://user-images.githubusercontent.com/36603621/37678499-46549074-2ca4-11e8-92c1-6b50e216fe87.JPG)
