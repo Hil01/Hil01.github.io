@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Blog 3- Desert Bazaar Photography"
+title:  "Blog 2- Desert Bazaar Photography"
 date:   2018-03-21 01:19:58 +0530
 comments: true
 categories: jekyll update
