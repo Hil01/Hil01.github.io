@@ -8,37 +8,64 @@ categories: jekyll update
 ##  **LBB's Desert Bazaar on 18th March,2018** <br/>
 ##  at High Street Phoenix <br/>
 
-At High Street Phoenix, Palladium
+
 ![rahil_photoessay_1](https://user-images.githubusercontent.com/36603621/37678499-46549074-2ca4-11e8-92c1-6b50e216fe87.JPG)
-<br/>
+<br/> High Street Phoenix, Palladium, one of the biggest and most popular mall in Mumbai.
+
 ![rahil_photoessay_2](https://user-images.githubusercontent.com/36603621/37679818-19f0eb3c-2ca8-11e8-910c-8bc7045229aa.JPG)
-<br/>
+<br/> Where almost every month a new sculpture,
+
 ![rahil_photoessay_3](https://user-images.githubusercontent.com/36603621/37679445-f1ac39de-2ca6-11e8-9428-2075f8ecdce2.JPG)
-<br/>
+<br/> But on 18th March, 2018, they introduced a new culture.
+
 ![rahil_photoessay_4](https://user-images.githubusercontent.com/36603621/37679949-78742c64-2ca8-11e8-93e9-3ea2a01724ec.jpg)
-<br/>
+<br/> Make the most out of the lazy Sunday,<br/>
+as Desert Bazaar is on it's way!
+
 ![rahil_photoessay_5](https://user-images.githubusercontent.com/36603621/37679953-7ac6f9e2-2ca8-11e8-950b-e47e397595d4.JPG)
-<br/>
+<br/> Make, Bake, Take and Enjoy,<br/>
+ Your Day By Eating Pancake!
+
 ![rahil_photoessay_6](https://user-images.githubusercontent.com/36603621/37680040-be661264-2ca8-11e8-9d68-028043847cb5.JPG)
-<br/>
+<br/> Feel delighted and awe-ful, <br/>
+after eating ice-cream topped waffle.
+
 ![rahil_photoessay_7](https://user-images.githubusercontent.com/36603621/37680044-c093018c-2ca8-11e8-8555-741c86eccc6c.JPG)
-<br/>
+<br/> Only if you sniff on a pancakes cliff, <br/>
+Will you be able to stiff all the pancakes in your stomach.
+
 ![rahil_photoessay_8](https://user-images.githubusercontent.com/36603621/37680146-0ae6122e-2ca9-11e8-9335-66a1fe954f93.JPG)
-<br/>
+<br/> Pastel colours remind us of our childhood, <br/>
+No matter what happens, those memories bring back our good mood.
+
 ![rahil_photoessay_9](https://user-images.githubusercontent.com/36603621/37680156-107a4d5e-2ca9-11e8-93c4-c499da62bc45.JPG)
-<br/>
+<br/> Cake made with Nestle Milkmaid, <br/>
+Looks so tasty, but wait, I just realized, I became a bait!
+
 ![rahil_photoessay_10](https://user-images.githubusercontent.com/36603621/37680211-3b6252c8-2ca9-11e8-9cff-7bc6aa721aee.JPG)
-<br/>
+<br/>Fun Family out there, <br/>
+Eating the food of their fantasy.
+
 ![rahil_photoessay_11](https://user-images.githubusercontent.com/36603621/37680216-3ee29200-2ca9-11e8-85c0-fa3d021b75d4.JPG)
-<br/>
+<br/> Iphone is what I own, <br/>
+Show offing the delicacy which is unknown.
+
 ![rahil_photoessay_12](https://user-images.githubusercontent.com/36603621/37680282-701694c0-2ca9-11e8-8f6c-29dddf2045f9.JPG)
-<br/>
+<br/> Tired off working all day under the boss, <br/>
+Try the Warps and Rolls with Mayo and Cheese Sauce.
+
 ![rahil_photoessay_13](https://user-images.githubusercontent.com/36603621/37680290-736e4faa-2ca9-11e8-9d99-4cf7deddfa9b.JPG)
-<br/>
+<br/> Have you seen the Indian version of Salt Bae? <br/>
+Here it is sprinkling choco chips on candy floss, by the way.
+
 ![rahil_photoessay_14](https://user-images.githubusercontent.com/36603621/37680359-a90520da-2ca9-11e8-88d8-23f12eeca08a.JPG)
-<br/>
+<br/> Fancy croissants are near, <br/>
+Eat it all till its here.
+
 ![rahil_photoessay_15](https://user-images.githubusercontent.com/36603621/37680365-ac1452a0-2ca9-11e8-9342-9918c4369862.JPG)
-<br/>
+<br/> When the day end, <br/>
+We all enjoyed, but don't know how much we spend.
+
 
 {% if page.comments %}
 <div id="disqus_thread"></div>
