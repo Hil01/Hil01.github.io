@@ -16,7 +16,8 @@
 title: < Life is a Code >
 email: hilparmar@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-Blog of Rahil Parmar, <br/> a Design Student studying in NMIMS University.
+
+
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
