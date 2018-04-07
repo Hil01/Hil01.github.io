@@ -5,7 +5,7 @@ date:   2018-03-21 01:19:58 +0530
 comments: true
 categories: jekyll update
 ---
-##  **Cartar Road Bandra West** <br/>
+##  **Carter Road Bandra West** <br/>
 
 
 ![1_rahil_photoessay](https://user-images.githubusercontent.com/36603621/38451619-1603ce98-3a51-11e8-9fa4-3b601989010b.JPG)
